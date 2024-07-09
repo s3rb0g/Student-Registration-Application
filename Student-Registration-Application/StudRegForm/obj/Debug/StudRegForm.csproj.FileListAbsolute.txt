@@ -1,0 +1,14 @@
+C:\Users\Ranie Gobres\Desktop\Integrative\StudRegForm\StudRegForm\bin\Debug\StudRegForm.exe.config
+C:\Users\Ranie Gobres\Desktop\Integrative\StudRegForm\StudRegForm\bin\Debug\StudRegForm.exe
+C:\Users\Ranie Gobres\Desktop\Integrative\StudRegForm\StudRegForm\bin\Debug\StudRegForm.pdb
+C:\Users\Ranie Gobres\Desktop\Integrative\StudRegForm\StudRegForm\obj\Debug\StudRegForm.csproj.AssemblyReference.cache
+C:\Users\Ranie Gobres\Desktop\Integrative\StudRegForm\StudRegForm\obj\Debug\StudRegForm.Form1.resources
+C:\Users\Ranie Gobres\Desktop\Integrative\StudRegForm\StudRegForm\obj\Debug\StudRegForm.Properties.Resources.resources
+C:\Users\Ranie Gobres\Desktop\Integrative\StudRegForm\StudRegForm\obj\Debug\StudRegForm.csproj.GenerateResource.cache
+C:\Users\Ranie Gobres\Desktop\Integrative\StudRegForm\StudRegForm\obj\Debug\StudRegForm.csproj.CoreCompileInputs.cache
+C:\Users\Ranie Gobres\Desktop\Integrative\StudRegForm\StudRegForm\obj\Debug\StudRegForm.exe
+C:\Users\Ranie Gobres\Desktop\Integrative\StudRegForm\StudRegForm\obj\Debug\StudRegForm.pdb
+C:\Users\Ranie Gobres\Desktop\Integrative\StudRegForm\StudRegForm\bin\Debug\StudRegForm.exe.manifest
+C:\Users\Ranie Gobres\Desktop\Integrative\StudRegForm\StudRegForm\bin\Debug\StudRegForm.application
+C:\Users\Ranie Gobres\Desktop\Integrative\StudRegForm\StudRegForm\obj\Debug\StudRegForm.exe.manifest
+C:\Users\Ranie Gobres\Desktop\Integrative\StudRegForm\StudRegForm\obj\Debug\StudRegForm.application
